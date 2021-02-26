@@ -1,0 +1,18 @@
+.CompletedChallanges{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 3.5rem  0;
+    padding-bottom: 1rem;
+    border-radius: 1px solid #d7d8da;
+}
+
+.CompletedChallanges span:first-child{ 
+   font-size: 1.25rem;
+}
+
+.CompletedChallanges span:last-child{ 
+    font-size: 1.5rem;
+ }
+ 
